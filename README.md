@@ -4,9 +4,14 @@
 
 A tool for pulling [NIMH RDoC](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml) informed transdiagnostic phenotypes from medical documentation.
 
-This code is described in [High Throughput Phenotyping for Dimensional Psychopathology in Electronic Health Records](https://doi.org/10.1016/j.biopsych.2018.01.011) and applied in [Genome-wide Association Study of Dimensional Psychopathology Using Electronic Health Records](https://doi.org/10.1016/j.biopsych.2017.12.004) both of which appear in *Biological Psychiatry*. 
+This code is described in [High Throughput Phenotyping for Dimensional Psychopathology in Electronic Health Records](https://doi.org/10.1016/j.biopsych.2018.01.011). This approach to RDoC symptom estimates conceptually follows that reported in [A Clinical Perspective on the Relevance of Research Domain Criteria in Electronic Health Records](https://doi.org/10.1176/appi.ajp.2014.14091177) but with an increased focus on ease of distribution.
 
-This approach conceptually follows that reported in [A Clinical Perspective on the Relevance of Research Domain Criteria in Electronic Health Records](https://doi.org/10.1176/appi.ajp.2014.14091177) in AJP with an increased focus on ease of distribution.
+ This software has been applied in:
+ 
+   - [Genome-wide Association Study of Dimensional Psychopathology Using Electronic Health Records](https://doi.org/10.1016/j.biopsych.2017.12.004)
+   - [Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study](https://doi.org/10.1016/j.jalz.2019.09.084)
+   - [Research Domain Criteria scores estimated through natural language processing are associated with risk for suicide and accidental death](https://doi.org/10.1002/da.22882)
+   - [Association between child psychiatric emergency room outcomes and dimensions of psychopathology](https://doi.org/10.1016/j.genhosppsych.2019.04.009)
 
 
 ### Usage
