@@ -12,6 +12,7 @@ This code is described in [High Throughput Phenotyping for Dimensional Psychopat
    - [Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study](https://doi.org/10.1016/j.jalz.2019.09.084)
    - [Research Domain Criteria scores estimated through natural language processing are associated with risk for suicide and accidental death](https://doi.org/10.1002/da.22882)
    - [Association between child psychiatric emergency room outcomes and dimensions of psychopathology](https://doi.org/10.1016/j.genhosppsych.2019.04.009)
+   - [Stratifying risk for dementia onset using large-scale electronic health record data: A retrospective cohort study](https://doi.org/10.1016/j.jalz.2019.09.084)
 
 
 ### Usage
