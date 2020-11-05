@@ -13,6 +13,7 @@ This code is described in [High Throughput Phenotyping for Dimensional Psychopat
    - [Research Domain Criteria scores estimated through natural language processing are associated with risk for suicide and accidental death](https://doi.org/10.1002/da.22882)
    - [Association between child psychiatric emergency room outcomes and dimensions of psychopathology](https://doi.org/10.1016/j.genhosppsych.2019.04.009)
    - [Differences among Research Domain Criteria score trajectories by Diagnostic and Statistical Manual categorical diagnosis during inpatient hospitalization](https://doi.org/10.1371/journal.pone.0237698)
+   - [Electronic Health Record Documentation of Psychiatric Assessments in Massachusetts Emergency Department and Outpatient Settings During the Coronavirus Disease 2019 (COVID-19) Pandemic] (https://doi:10.1001/jamanetworkopen.2020.11346)
 
 
 ### Usage
