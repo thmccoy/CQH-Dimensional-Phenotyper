@@ -16,6 +16,7 @@ This code is described in [High Throughput Phenotyping for Dimensional Psychopat
    - [Electronic Health Record Documentation of Psychiatric Assessments in Massachusetts Emergency Department and Outpatient Settings During the Coronavirus Disease 2019 (COVID-19) Pandemic](https://doi.org/10.1001/jamanetworkopen.2020.11346)
    - [Mapping of Transdiagnostic Neuropsychiatric Phenotypes Across Patients in Two General Hospitals](https://doi.org/10.1016/j.jaclp.2021.01.002)
    - [Mood Disorders and Outcomes of COVID-19 Hospitalizations](https://doi.org/10.1176/appi.ajp.2020.20060842)
+   - [Case-control study of neuropsychiatric symptoms in electronic health records following COVID-19 hospitalization in 2 academic health systems.](https://doi.org/10.1038/s41380-022-01646-z) *Molecular Psychiatry* 27.9 (2022): 3898-3903.
 
 
 ### Usage
