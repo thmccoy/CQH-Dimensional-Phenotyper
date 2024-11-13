@@ -18,6 +18,7 @@ This code is described in [High Throughput Phenotyping for Dimensional Psychopat
    - [Mood Disorders and Outcomes of COVID-19 Hospitalizations](https://doi.org/10.1176/appi.ajp.2020.20060842)
    - [Case-control study of neuropsychiatric symptoms in electronic health records following COVID-19 hospitalization in 2 academic health systems.](https://doi.org/10.1038/s41380-022-01646-z) *Molecular Psychiatry* 27.9 (2022): 3898-3903.
    - [Dimensional clinical phenotyping using post‐mortem brain donor medical records: post‐mortem RDoC profiling is associated with Alzheimer's disease neuropathology](https://doi.org/10.1002/dad2.12464). *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring* 15.3 (2023): e12464.
+   - [Dimensional measures of psychopathology in children and adolescents using large language models](https://doi.org/10.1016/j.biopsych.2024.05.008). *Biological Psychiatry* (2024).
 
 
 ### Usage
